@@ -1,7 +1,8 @@
 import React from 'react'
+import Container from '../styles/Container'
 
-function App() {
-  return <div>Blog with Redux</div>
+const App = () => {
+  return <Container>App with Redux</Container>
 }
 
 export default App
